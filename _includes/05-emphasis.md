@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## A few of my skills and work experiences
+- Microsoft Office Suite
+- Photoshop
+- InDesign and Quark
+- *Public Speaking*
